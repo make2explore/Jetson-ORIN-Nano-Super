@@ -39,7 +39,7 @@ Starting with JetPack 7, NVIDIA introduced a highly simplified ISO Bootable USB 
 
 ▶️ Jetson Orin Nano Super Developer Kit : Unboxing & Specs 🔗  https://youtu.be/QPcrAhREJjQ  
 
-▶️ Jetson Orin Nano Super Developer Kit Setup Guide (2026) 🔗  https://youtu.be/  
+▶️ Jetson Orin Nano Super Developer Kit Setup Guide (2026) 🔗  https://youtu.be/KXQEhidMDfc  
   
 
 -------------------------------------------------------------------------------------------------------
