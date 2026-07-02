@@ -1,4 +1,4 @@
-# AMD-Kria-KR260-Robotics-Starter-Kit  
+# NVIDIA Jetson ORIN Nano Super Developer Kit 
 
 <img src="/Images/m2e-Orin-Nano-Setup-SD-new.jpg" height="200">
   
