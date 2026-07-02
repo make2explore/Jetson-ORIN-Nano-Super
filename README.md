@@ -46,10 +46,15 @@ Starting with JetPack 7, NVIDIA introduced a highly simplified ISO Bootable USB 
 📒 **Important Links**  
  
 📖 Jetson Orin Nano Super Quick Start Guide :🔗 https://docs.nvidia.com/jetson/orin-nano-devkit/user-guide/latest/quick_start.html  
+  
 💾 Jetson Developer Zone : 🔗 https://developer.nvidia.com/embedded-computing  
-📞 Jetson Support Forums : 🔗 https://forums.developer.nvidia.com/c/robotics-edge-computing/jetson-systems/jetson-orin-nano/632    
+  
+📞 Jetson Support Forums : 🔗 https://forums.developer.nvidia.com/c/robotics-edge-computing/jetson-systems/jetson-orin-nano/632  
+  
 🚨 NVIDIA Jetson Zoo Catalog : 🔗 https://elinux.org/Jetson_Zoo  
+  
 📌 Jetson Community Projects  :  🔗 https://developer.nvidia.com/embedded/community/jetson-projects  
+  
 
 🛒  Purchase  -   
 NVIDIA Official Website : 🔗 https://developer.nvidia.com/embedded/buy-jetson  
