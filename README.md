@@ -68,7 +68,7 @@ Product page :  🔗 https://www.nvidia.com/en-us/autonomous-machines/embedded-s
 
 📜 Source Code, Circuit Diagrams and Documentation : 
 
-🌐 GitHub Repository - 🔗 https://github.com/make2explore/AMD-Kria-KR260-Robotics-Starter-Kit    
+🌐 GitHub Repository - 🔗 https://github.com/make2explore/Jetson-ORIN-Nano-Super    
   
 🌐 Hackster Blog - 🔗 https://www.hackster.io/make2explore  
   
