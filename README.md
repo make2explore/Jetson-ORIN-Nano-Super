@@ -6,7 +6,7 @@ In this **Video Tutorial**, We are going to see How to install Jetson Linux Oper
 
 The **NVIDIA Jetson Orin Nano** is a compact, high-performance system-on-module (SoM) and development platform designed specifically for entry-level Edge AI, robotics, and smart vision applications. It acts as an accessible entry point to NVIDIA's elite Orin architecture, offering massive generation-over-generation speedups tailored for local AI tasks.
   
-<img src="/Images/m2e-Orin-Nano" height="200">
+<img src="/Images/m2e-Orin-Nano.jpg" height="200">
 
 Starting with JetPack 7, NVIDIA introduced a highly simplified ISO Bootable USB flashing method that eliminates the traditional, complex requirement of a separate Ubuntu x86 host PC running the SDK Manager. Instead, you download an official standalone OS installer ISO image (roughly 5 GB) directly from NVIDIA and use standard writing tools like Balena Etcher on any standard Windows, Mac, or Linux computer to flash it onto a regular USB flash drive. When you plug this bootable USB drive into your Jetson Orin Nano and power it on, the system boots into a native installer that automatically upgrades the board's UEFI firmware and directly installs Jetson Linux onto your high-speed internal NVMe SSD or MicroSD card.  
   
